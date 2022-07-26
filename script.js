@@ -9,27 +9,28 @@ let Deb2 = document.getElementById("Debtn2");
 let num1 = document.getElementById("num1");
 let num2 = document.getElementById("num2");
 
-let result = 1;
+let result1 = 1;
+let result2 = 1;
 
-num1.textContent = result;
-num2.textContent = result;
+num1.textContent = result1;
+num2.textContent = result2;
 
 Inb1.addEventListener("click", function () {
-  result += 1;
-  num1.textContent = result;
+  result1 += 1;
+  num1.textContent = result1;
 });
 
 Deb1.addEventListener("click", function () {
-  result -= 1;
-  num1.textContent = result;
+  result1 -= 1;
+  num1.textContent = result1;
 });
 
 Inb2.addEventListener("click", function () {
-  result += 1;
-  num2.textContent = result;
+  result2 += 1;
+  num2.textContent = result2;
 });
 
 Deb2.addEventListener("click", function () {
-  result -= 1;
-  num2.textContent = result;
+  result2 -= 1;
+  num2.textContent = result2;
 });

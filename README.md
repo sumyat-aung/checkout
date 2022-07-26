@@ -2,16 +2,23 @@
 
 ## Overview
 
-  <h3>
-    <a href="https://colorflipper-by-sumyat.netlify.app/">
-      Demo - URL link - https://colorflipper-by-sumyat.netlify.app/
+  <h3>   Demo - URL link -
+    <a href="https://checkout-by-sumyat.netlify.app/">
+     https://colorflipper-by-sumyat.netlify.app/
     </a>
   </h3>
 
 <br/>
 <br/>
 
-![](demo/large-screen.png)
+![](Demo/large-screen.png)
+<br/>
+<br/>
+
+<div align="center">
+<img src="Demo/small-screen.png" width="600">
+</div>
+
 <br/>
 <br/>
 
